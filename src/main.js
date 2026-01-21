@@ -5,4 +5,4 @@ import mainHTML from "./templates/main/index.html?raw";
 import footerHTML from "./templates/footer/index.html?raw";
 
 const app = document.querySelector("#app");
-app.innerHTML = headerHTML + mainHTML + footerHTML;
+app.innerHTML = headerHTML + navHTML + mainHTML + footerHTML;

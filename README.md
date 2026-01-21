@@ -2,7 +2,7 @@
 
 I denna övning kommer du att testa på att installera och använda dependencies. Du får också en förhandstitt på hur ett modulärt JavaScript-projekt kan se ut. Projektet kommer med ett simpelt UI, ett fotogalleri/portfolio, som du kan ändra till precis vad du vill. Du får också prova på hur det är att jobba med Vite - En bundler som tar alla dina JavaScript-, CSS- och andra filer och packar ihop dem till en snabb, effektiv version som webbläsaren kan ladda enkelt. Det är standard att använda bundlers inom frontendutveckling.
 
-Det huvudsakliga syftet med denna uppgift är att lära sig at installera och använda dependencies. Om detta är dependencies som enbart har med JavaScript att göra eller på något sätt påverkar UI:t är upp till dig.
+Det huvudsakliga syftet med denna uppgift är att lära sig att installera och använda dependencies. Om detta är dependencies som enbart har med JavaScript att göra eller på något sätt påverkar UI:t är upp till dig.
 
 ## 👩‍💻 Steg
 
